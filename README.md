@@ -7,6 +7,6 @@ Submissions for [Kaggle nips 2017 adversarial image competition](https://www.kag
 ## How to run Defense 
 1. Download keras and h5py .whl files into defense/resnet_xception_vgg19_dual 
 2. Download corresponding keras pre-trained weights and put them into defense/resnet_xception_vgg19_dual/common.  
-3. Somehow find-tune the above pre-trained weights with adversarial images, and put them under defense/resnet_xception_vgg19_dual.
+3. Somehow fine-tune the above pre-trained weights with adversarial images, and put them under defense/resnet_xception_vgg19_dual.
 
 
